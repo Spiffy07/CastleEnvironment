@@ -1,4 +1,4 @@
-# Castle environment
+# Castle Environment
 
 This project uses Unreal Engine 5.2 and consists of a cinematic environment of castle walls, lake, and woody area as the main level design. 
 It also includes mountains and hilly terrain in the background as well as Lumen lighting. It also includes a small target game. 
